@@ -21,7 +21,7 @@ const Home = () => {
         <br />
         <div style={{ gap: "10px", display: "flex" }}>
           {[
-            { href: "https://wa.me/917525847163", icon: "fa-whatsapp" },
+            { href: "https://wa.me/917857949290", icon: "fa-whatsapp" },
             {
               href: "https://www.instagram.com/_sizzling__shweta_/",
               icon: "fa-instagram",
